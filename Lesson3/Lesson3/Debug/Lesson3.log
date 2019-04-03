@@ -1,0 +1,22 @@
+﻿  MainClass.c
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(34): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int (*)[10]"
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(34): warning C4024: initArray: различные типы для формального и фактического параметров 1
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(40): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(48): warning C4047: =: "int" отличается по уровням косвенного обращения от "int (*)[10]"
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(54): warning C4047: =: "int" отличается по уровням косвенного обращения от "int *"
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(60): warning C4047: =: "int" отличается по уровням косвенного обращения от "int *"
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(66): warning C4047: =: "int" отличается по уровням косвенного обращения от "int *"
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(96): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(100): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(113): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(120): warning C4028: формальный параметр 1 отличается от объявления
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(131): warning C4047: =: "int" отличается по уровням косвенного обращения от "int *"
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(133): warning C4047: =: "int *" отличается по уровням косвенного обращения от "int"
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(141): warning C4047: return: "int *" отличается по уровням косвенного обращения от "int **"
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(138): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(176): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(202): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(239): warning C4098: BinarySearch: функция типа "void", возвращающая значение
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(179): warning C4716: ShakerSort: должна возвращать значение
+d:\c# projects\си алгоритмы\урок 3\lesson3\lesson3\lesson3\mainclass.c(205): warning C4716: SelectSort: должна возвращать значение
+  Lesson3.vcxproj -> D:\C# projects\Си Алгоритмы\Урок 3\Lesson3\Lesson3\Debug\Lesson3.exe
