@@ -183,19 +183,22 @@ int* SelectSort(int *Arr, int len)
 	int SwapCount = 0;
 	int j = 0;				//Индекс текущего элемента
 	int temp = 0;
+	int minIndex = 0;
 	start = time(NULL);
 	for (int i=0; i<len; i++)
 	{
+		minIndex = i;
 		for (int k = i+1; k < len; k++)
 		{
-			if (Arr[i] > Arr[k])
+			if (Arr[minIndex] > Arr[k])
 			{
 				SwapCount++;
-				temp = Arr[i];
-				Arr[i] = Arr[k];
-				Arr[k] = temp;
+				minIndex = k;				
 			}
 		}
+		temp = Arr[i];
+		Arr[i] = Arr[minIndex];
+		Arr[minIndex] = temp;
 	}
 
 	end = time(NULL);
